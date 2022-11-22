@@ -1,1 +1,7 @@
-heroku buildpacks:set heroku/nodejs
+{
+ "buildpacks": [
+     {
+       "url": "https://github.com/stomita/heroku-buildpack-phantomjs"
+     }
+   ],
+}
