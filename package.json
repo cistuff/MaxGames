@@ -1,0 +1,7 @@
+{
+  "name": "maxmathstudy",
+  "description": "math, study, educational, english",
+  "engines": {
+    "node": "18.x"
+  }
+}
