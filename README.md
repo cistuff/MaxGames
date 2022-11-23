@@ -1,1 +1,1 @@
-"# MaxGames" 
+A simple game website.
